@@ -1,2 +1,2 @@
 # Numerical-Optimization
-Tutorials and mini-projects on numerical optimization  
+This repository contains a topic-wise curated list Tutorials and mini-projects on numerical optimization  
