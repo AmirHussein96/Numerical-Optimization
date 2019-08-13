@@ -9,5 +9,4 @@
 ```
 pip install -r requirements.txt
 ```
-Make sure you provide the correct path of **requirements.txt**
 
